@@ -15,7 +15,7 @@ const FoodItems = () => {
     <>
       <Toaster position="top-center" reverseOrder={false}></Toaster>
 
-      <div className="flex flex-row flex-wrap gap-10 my-10 justify-center lg:justify-start mx-6">
+      <div className="flex flex-row flex-wrap gap-10 my-10 justify-center mx-6">
         
         {
           data.filter((food) => {

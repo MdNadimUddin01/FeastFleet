@@ -28,7 +28,7 @@ const CategoryMenu = () => {
   
 
   return (
-    <div className="ml-6">
+    <div className="px-3 mx-6">
         
       <h3 className="text-xl font-semibold">Find the best food</h3>
 
