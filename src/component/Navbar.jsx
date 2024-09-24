@@ -14,7 +14,7 @@ const Navbar = () => {
         <div className='flex flex-row gap-2 items-center'>
           <img src={logo} className='w-[30px] h-[30px] rounded-md' alt="" />
 
-          <h1 className='text-2xl font-bold'>FeastFleet</h1>
+          <h1 className='text-2xl font-bold'>Feast Fleet</h1>
         </div>
 
           <h3 className='text-xl font-bold text-gray-600 '>
